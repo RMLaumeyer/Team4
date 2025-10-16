@@ -5,3 +5,5 @@ def sumList (list nums):
     for i in range(len(nums)):
         total += nums[i]
     return total
+
+print("edit")
