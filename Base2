@@ -1,4 +1,5 @@
 def analyze_numbers(numbers):
+    '''this analyzies numbers'''
     total = sum(numbers)
     avg = total / len(numbers) if numbers else 0
     smallest = min(numbers) if numbers else None
