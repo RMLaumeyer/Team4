@@ -1,1 +1,5 @@
+variableHere = 666
+def minus(a,b):
+    return a-b
 
+    
