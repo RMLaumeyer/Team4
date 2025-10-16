@@ -1,7 +1,7 @@
 def analyze_numbers(numbers):
     '''this analyzies numbers'''
     total = sum(numbers)
-    print("a am finding ave now!!!")
+    print("I am finding ave now!!!")
     avg = total / len(numbers) if numbers else 0
     print("ave found!!!!")
     smallest = min(numbers) if numbers else None
