@@ -1,4 +1,5 @@
 def analyze_numbers(numbers):
+    '''this analyzies numbers'''
     total = sum(numbers)
     print("a am finding ave now!!!")
     avg = total / len(numbers) if numbers else 0
